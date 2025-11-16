@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="a professional final" src="https://github.com/user-attachments/assets/5b6b77f2-ed9a-4677-aaa5-ad7959ea52a5" />
 # smartbin-iot-
 Real-time Smart Bin IoT system for waste monitoring using ESP32, Firebase, and Web Dashboard.“Initialize this repository with a README”
 
@@ -59,5 +60,5 @@ Masukkan konfigurasi tersebut ke dalam file:
 - smart_bin.ino
 - firebase_push.py
 - script.jsM
-https://github.com/kucay/smartbin-iot
+https://github.com/kucay55/smartbin-iot
 
